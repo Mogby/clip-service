@@ -1,7 +1,7 @@
-from embedder import ClipEmbedder
+import clip
 
 
 if __name__ == '__main__':
     # Downloads CLIP model if it is not downloaded yet
-    ClipEmbedder()
+    clip.load('ViT-B/32')
 
