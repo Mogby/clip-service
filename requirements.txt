@@ -1,0 +1,18 @@
+bjoern==3.1.0
+certifi==2021.5.30
+click==8.0.1
+clip @ git+https://github.com/openai/CLIP.git@cfcffb90e69f37bf2ff1e988237a0fbe41f33c04
+Flask==2.0.1
+ftfy==6.0.3
+itsdangerous==2.0.1
+Jinja2==3.0.1
+MarkupSafe==2.0.1
+numpy==1.20.3
+Pillow==8.2.0
+regex==2021.4.4
+torch==1.7.1
+torchvision==0.8.2
+tqdm==4.61.1
+typing-extensions==3.10.0.0
+wcwidth==0.2.5
+Werkzeug==2.0.1
